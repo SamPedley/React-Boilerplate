@@ -5,7 +5,7 @@ Just setting this up roughly for now for basic prototyping stuff in the future.
 ### Getting started with local dev:
 1. run ```yarn install``` or ```npm install```
 2. run ```npm run dev```
-3. visit ```[localhost:8080](http://localhost:8080)```
+3. visit [localhost:8080](http://localhost:8080)
 
 ### NPM Commands:
 * ```npm run start``` to build and serve the 'production' version
